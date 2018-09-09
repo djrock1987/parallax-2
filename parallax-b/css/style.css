@@ -1,0 +1,14 @@
+body{
+	background: 
+}
+.seccion{
+	width: 200vw;
+	height: 100vh;
+	margin: 0 auto;
+}
+
+.airplane{
+	display: inline-block;
+	margin-top: 150px;
+	margin-left: : 200px;
+}
